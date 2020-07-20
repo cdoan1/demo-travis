@@ -9,3 +9,4 @@ test travis job
 3. clone deploy repo
 4. test install rhacm
 5. trigger this to run periodically
+6. uninstall operator
